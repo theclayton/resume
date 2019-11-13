@@ -1,39 +1,161 @@
 
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fcfcfc;
+  font-family: arial;
+}
+h1 {
+  font-size: 2em;
+}
+h2 {
+  font-size: 1.5em;
+}
+h3 {
+  font-size: 1.3em;
+}
+
+#headingSection {
+  background-color: #ffffff;
+  position: relative;
+  text-align: center;
+}
 
 
+
+/* ------------------------------------------------------------
+TIME LINE SECTION
+-------------------------------------------------------------*/
+#timelineSection {
+  padding: 0;
+  margin: 0;
+  position: relative;
+  border-top: 1px solid #cccccc;
+}
+.timeline {
+  padding: 0;
+  margin: 0;
+  position: relative;
+  background-color: #333333;
+  overflow: auto;
+  direction: rtl;
+  white-space: nowrap;
+  height: 525px; /* 25px more due to custom scroller bar */
+}
+.tEvent {
+  padding: 0;
+  margin: 0;
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  top: 0px;
+  width: 250px;
+  height: 500px;
+  text-decoration: none;
+}
+.tInfo {
+  color: white;
+  width: 100%;
+  height: 100%;
+  text-align: left;
+  white-space: normal;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 0;
+  position: absolute;
+  background-color: #444444;
+}
+.tLine {
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  height: 5px;
+  width: 105%;
+  top: 262px;
+  right: 50%;
+  background-color: #eeeeee;
+}
+.tDot {
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  top: 250px;
+  right: 100px;
+  background-color: #eeeeee;
+}
+.tYear {
+  text-align: center;
+  color: white;
+  font-size: 1.3em;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  top: 300px;
+  right: 100px;
+}
+/* custom event boxes */
+#tInfo2019 {
+  width: 400px;
+  height: 175px;
+  top: 10px;
+  right: 50px;
+}
+
+
+
+/* SCROLLBAR ISH -->
+/* width */
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: red;
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #b30000;
+}
+
+
+
+/* fonts */
 .titletext {
   font-family: 'Lobster-Regular';
   font-weight:normal;
   font-style:normal;
-  font-size: 64pt;
+  font-size: 90pt;
+  padding-top: 35px;
   text-align: center;
   color: transparent;
-  background: #666666;
+  background: #111111;
   -webkit-background-clip: text;
   -moz-background-clip: text;
   background-clip: text;
-  text-shadow: 0px 3px 3px rgba(255,255,255,0.5);
+  text-shadow: 0px 3px 3px rgba(255,255,255,0.25);
 }
-
-
-
-.timeline {
-  background-color: #333;
-  overflow: auto;
-  direction: rtl;
-  white-space: nowrap;
-}
-
-.timeline a {
-  display: inline-block;
-  color: white;
+.secTitle {
+  font-family: 'Lobster-Regular';
+  font-weight:normal;
+  font-style:normal;
+  font-size: 56pt;
   text-align: center;
-  width: 200px;
-  height: 200px;
-  padding: 14px;
-  text-decoration: none;
-}
-
-.timeline a:hover {
-  background-color: #777;
+  color: transparent;
+  background: #a80b00;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  text-shadow: 0px 2px 2px rgba(255,255,255,0.35);
 }

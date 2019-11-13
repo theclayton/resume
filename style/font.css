@@ -1,5 +1,17 @@
 @font-face {
   font-family: 'Lobster-Regular';
+  src: url('../fonts/lobster/Lobster-Regular.eot');
+  src: url('../fonts/lobster/Lobster-Regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/lobster/Lobster-Regular.svg#Lobster-Regular') format('svg'),
+       url('../fonts/lobster/Lobster-Regular.ttf') format('truetype'),
+       url('../fonts/lobster/Lobster-Regular.woff') format('woff'),
+       url('../fonts/lobster/Lobster-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+/* USE THIS WHEN LIVE:
+@font-face {
+  font-family: 'Lobster-Regular';
   src: url('http://flaresoftware.com/resume/fonts/lobster/Lobster-Regular.eot');
   src: url('http://flaresoftware.com/resume/fonts/lobster/Lobster-Regular.eot?#iefix') format('embedded-opentype'),
        url('http://flaresoftware.com/resume/fonts/lobster/Lobster-Regular.svg#Lobster-Regular') format('svg'),
@@ -9,3 +21,4 @@
   font-weight: normal;
   font-style: normal;
 }
+*/
