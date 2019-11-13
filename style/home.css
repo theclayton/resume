@@ -14,3 +14,26 @@
   background-clip: text;
   text-shadow: 0px 3px 3px rgba(255,255,255,0.5);
 }
+
+
+
+.timeline {
+  background-color: #333;
+  overflow: auto;
+  direction: rtl;
+  white-space: nowrap;
+}
+
+.timeline a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  width: 200px;
+  height: 200px;
+  padding: 14px;
+  text-decoration: none;
+}
+
+.timeline a:hover {
+  background-color: #777;
+}
