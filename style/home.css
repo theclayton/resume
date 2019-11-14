@@ -38,18 +38,38 @@ TIME LINE SECTION
   margin: 0;
   position: relative;
   background-color: #333333;
+  -webkit-box-shadow: inset 0px 0px 13px -3px rgba(0,0,0,0.75);
+  -moz-box-shadow: inset 0px 0px 13px -3px rgba(0,0,0,0.75);
+  box-shadow: inset 0px 0px 13px -3px rgba(0,0,0,0.75);
   direction: rtl;
   white-space: nowrap;
   overflow-x: scroll;
 	overflow-y: hidden;
   height: 525px; /* 25px more due to custom scroller bar */
 }
+.tEventsLabel {
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  left: 150px;
+  top: 0px;
+  color: rgba(0,0,0,.6);
+  text-shadow: 3px 2px 3px rgba(255,255,255,.1);
+}
+.tProjectsLabel {
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  left: 135px;
+  top: 440px;
+  color: rgba(0,0,0,.6);
+  text-shadow: 3px 2px 3px rgba(255,255,255,.1);
+}
 .tEvent {
   padding: 0;
   margin: 0;
   position: relative;
   display: inline-block;
-  text-align: center;
   top: 0px;
   width: 250px;
   height: 500px;
@@ -133,8 +153,8 @@ Custom Event Boxes
 }
 #tInfo2011 { /* First game City Sky */
   width: 170px;
-  height: 80px;
-  top: 30px;
+  height: 90px;
+  top: 20px;
   right: 165px;
   border-radius: 10px 10px 0px 10px;
 }
@@ -145,7 +165,7 @@ Custom Event Boxes
 	border-top: 150px solid #444444;
 }
 #tInfo2013 { /* Harman QA */
-  width: 200px;
+  width: 220px;
   height: 125px;
   top: 70px;
   right: 0px;
@@ -177,18 +197,57 @@ Custom Event Boxes
   top: 100px;
   right: 0px;
 }
-
 #tInfo2016 { /* Mission */
-  width: 450px;
-  height: 155px;
-  top: 40px;
-  right: 0px;
+  width: 420px;
+  height: 70px;
+  top: 140px;
+  right: 40px;
   border-radius: 10px 10px 0px 10px;
 }
 #tInfo2016Triangle {
   top: 195px;
-  right: 0px;
+  right: 40px;
 }
+#tInfo2016b { /* Xamarin app */
+  width: 225px;
+  height: 100px;
+  top: 20px;
+  right: 0px;
+  border-radius: 10px 10px 0px 10px;
+}
+#tInfo2016Triangleb {
+  top: 110px;
+  right: 0px;
+  border-left: 20px solid transparent;
+	border-top: 130px solid #444444;
+}
+#tInfo2017 { /* Swift app w/ DB and 2D Rendering */
+  width: 215px;
+  height: 120px;
+  top: 75px;
+  right: 0px;
+  border-radius: 10px 10px 0px 10px;
+}
+#tInfo2017Triangle {
+  top: 195px;
+  right: 30px;
+}
+#tInfo2018 { /* Focus on web development */
+  width: 215px;
+  height: 120px;
+  top: 45px;
+  right: 0px;
+  border-radius: 10px 10px 0px 10px;
+}
+#tInfo2018Triangle {
+  top: 165px;
+  right: 0px;
+  border-left: 20px solid transparent;
+  border-top: 80px solid #444444;
+}
+
+
+
 
 
 /* SCROLLBAR ISH -->
