@@ -31,15 +31,17 @@ TIME LINE SECTION
   margin: 0;
   position: relative;
   border-top: 1px solid #cccccc;
+  border-bottom: 1px solid #aaaaaa;
 }
-.timeline {
+#timeline {
   padding: 0;
   margin: 0;
   position: relative;
   background-color: #333333;
-  overflow: auto;
   direction: rtl;
   white-space: nowrap;
+  overflow-x: scroll;
+	overflow-y: hidden;
   height: 525px; /* 25px more due to custom scroller bar */
 }
 .tEvent {
@@ -64,6 +66,14 @@ TIME LINE SECTION
   margin: 0;
   position: absolute;
   background-color: #444444;
+}
+.tInfoTriangle {
+  width: 0;
+	height: 0;
+  position: absolute;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-top: 50px solid #444444;
 }
 .tLine {
   padding: 0;
@@ -97,6 +107,17 @@ TIME LINE SECTION
   right: 100px;
 }
 /* custom event boxes */
+#tInfo2010 {
+  width: 200px;
+  height: 175px;
+  top: 10px;
+  right: 2200px;
+  border-radius: 10px 10px 0px 10px;
+}
+#tInfo2019Triangle {
+  top: 185px;
+  right: 2200px;
+}
 #tInfo2019 {
   width: 400px;
   height: 175px;
@@ -110,6 +131,7 @@ TIME LINE SECTION
 /* width */
 ::-webkit-scrollbar {
   width: 20px;
+  height: 20px;
 }
 
 /* Track */
@@ -120,13 +142,14 @@ TIME LINE SECTION
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: red;
+  background: #eeeeee;
   border-radius: 10px;
+  border: 1px solid #555555;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #b30000;
+  background: #dddddd;
 }
 
 
