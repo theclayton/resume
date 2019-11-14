@@ -71,9 +71,9 @@ TIME LINE SECTION
   width: 0;
 	height: 0;
   position: absolute;
-	border-left: 25px solid transparent;
-	border-right: 25px solid transparent;
-	border-top: 50px solid #444444;
+	border-left: 20px solid transparent;
+	border-right: 0px solid transparent;
+	border-top: 45px solid #444444;
 }
 .tLine {
   padding: 0;
@@ -106,25 +106,89 @@ TIME LINE SECTION
   top: 300px;
   right: 100px;
 }
-/* custom event boxes */
+/* ------------------------------------
+Custom Event Boxes
+--------------------------------------- */
 #tInfo2010 {
-  width: 200px;
-  height: 175px;
-  top: 10px;
-  right: 2200px;
+  width: 180px;
+  height: 125px;
+  top: 70px;
+  right: 150px;
   border-radius: 10px 10px 0px 10px;
 }
-#tInfo2019Triangle {
-  top: 185px;
-  right: 2200px;
+#tInfo2010Triangle {
+  top: 195px;
+  right: 150px;
 }
-#tInfo2019 {
-  width: 400px;
-  height: 175px;
-  top: 10px;
+#tInfo2012 { /* KSL story */
+  width: 285px;
+  height: 85px;
+  top: 130px;
+  right: 50px;
+  border-radius: 10px 10px 0px 10px;
+}
+#tInfo2012Triangle {
+  top: 205px;
   right: 50px;
 }
+#tInfo2011 { /* First game City Sky */
+  width: 170px;
+  height: 80px;
+  top: 30px;
+  right: 165px;
+  border-radius: 10px 10px 0px 10px;
+}
+#tInfo2011Triangle {
+  top: 100px;
+  right: 165px;
+  border-left: 20px solid transparent;
+	border-top: 150px solid #444444;
+}
+#tInfo2013 { /* Harman QA */
+  width: 200px;
+  height: 125px;
+  top: 70px;
+  right: 0px;
+  border-radius: 10px 10px 0px 10px;
+}
+#tInfo2013Triangle {
+  top: 195px;
+  right: 0px;
+}
+#tInfo2014 { /* Graduated HS */
+  width: 200px;
+  height: 90px;
+  top: 125px;
+  right: 0px;
+  border-radius: 10px 10px 0px 10px;
+}
+#tInfo2014Triangle {
+  top: 205px;
+  right: 0px;
+}
+#tInfo2014b { /* Received AS Degree */
+  width: 200px;
+  height: 90px;
+  top: 20px;
+  right: 0px;
+  border-radius: 10px 10px 0px 10px;
+}
+#tInfo2014Triangleb {
+  top: 100px;
+  right: 0px;
+}
 
+#tInfo2016 { /* Mission */
+  width: 450px;
+  height: 155px;
+  top: 40px;
+  right: 0px;
+  border-radius: 10px 10px 0px 10px;
+}
+#tInfo2016Triangle {
+  top: 195px;
+  right: 0px;
+}
 
 
 /* SCROLLBAR ISH -->
