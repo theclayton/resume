@@ -248,6 +248,52 @@ Custom Event Boxes
 
 
 
+/* ------------------------------------------------------------
+Education Section
+-------------------------------------------------------------*/
+#educationFormal {
+  text-align:center;
+}
+#educationFormal li  {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 25px;
+}
+
+#educationOther {
+  text-align: center;
+}
+
+
+
+/* ------------------------------------------------------------
+Experience Section
+-------------------------------------------------------------*/
+#experienceSection {
+  border-top: 1px solid #cccccc;
+
+}
+
+.experienceSquares {
+  background-color: #444444;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 0px;
+}
+.eSquare {
+  background-color: #333333;
+  color: #aaaaaa;
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  text-decoration: none;
+  padding: 60px;
+  font-size: 30px;
+  text-align: center;
+}
+.eSquare:hover {
+  background-color: #444444;
+}
+
 
 
 /* SCROLLBAR ISH -->
