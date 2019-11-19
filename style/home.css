@@ -14,6 +14,9 @@ h2 {
 h3 {
   font-size: 1.3em;
 }
+h3 {
+  font-size: 1.0em;
+}
 
 #headingSection {
   background-color: #ffffff;
@@ -260,7 +263,6 @@ Education Section
   margin-right: auto;
   padding: 25px;
 }
-
 #educationOther {
   text-align: center;
 }
@@ -272,9 +274,10 @@ Experience Section
 -------------------------------------------------------------*/
 #experienceSection {
   border-top: 1px solid #cccccc;
-
 }
-
+#experienceSection.secTitle {
+  background-color: #fcfcfc;
+}
 .experienceSquares {
   background-color: #444444;
   display: grid;
@@ -286,12 +289,19 @@ Experience Section
   color: #aaaaaa;
   border: 1px solid rgba(0, 0, 0, 0.8);
   text-decoration: none;
-  padding: 60px;
-  font-size: 30px;
+  height: 200px;
   text-align: center;
 }
 .eSquare:hover {
   background-color: #444444;
+}
+.eSquareImg {
+  display: inline-block;
+  margin: 20px 10px 10px 10px;
+  background-color: #eeeeee;
+}
+.archiveLink {
+  text-align: center;
 }
 
 
