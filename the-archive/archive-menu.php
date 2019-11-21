@@ -1,8 +1,8 @@
 <?php
 echo '
   <ul id="archiveMenu">
-  <li><span class="caret">All Projects</span>
-    <ul class="aNested">
+  <li>All Projects
+    <ul class="aNestedTop">
 
       <li><span class="caret">iOS Development</span>
         <ul class="aNested">

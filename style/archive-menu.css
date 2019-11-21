@@ -1,12 +1,14 @@
 ul, #archiveMenu {
   list-style-type: none;
 }
-
 #archiveMenu {
   margin: 0;
   padding: 0;
+  display: block;
 }
-
+#archiveMenu a {
+  color: #222222;
+}
 .caret {
   cursor: pointer;
   -webkit-user-select: none; /* Safari 3.1+ */
@@ -14,24 +16,23 @@ ul, #archiveMenu {
   -ms-user-select: none; /* IE 10+ */
   user-select: none;
 }
-
 .caret::before {
   content: "\25B6";
   color: black;
   display: inline-block;
   margin-right: 6px;
 }
-
 .caret-down::before {
   -ms-transform: rotate(90deg); /* IE 9 */
   -webkit-transform: rotate(90deg); /* Safari */'
   transform: rotate(90deg);
 }
-
+.aNestedTop {
+  display: block;
+}
 .aNested {
   display: none;
 }
-
 .active {
   display: block;
 }
