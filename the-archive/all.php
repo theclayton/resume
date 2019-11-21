@@ -6,12 +6,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <link rel="stylesheet" type="text/css" href="../style/font.css">
-<link rel="stylesheet" type="text/css" href="../style/home.css">
+<link rel="stylesheet" type="text/css" href="../style/archive-menu.css">
 
 <!-- This site uses JQuery -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script>
-   window.jQuery || document.write('<script src="js/jquery/jquery-3.4.1.min.js"><\/script>');
+   window.jQuery || document.write('<script src="../js/jquery/jquery-3.4.1.min.js"><\/script>');
 </script>
 
 </head> <!-- emd head -->
@@ -19,11 +19,9 @@
 
 <body>
 
-  <div class="aMenu">
   <?php
-  include 'archivemenu.php';
+  include 'archive-menu.php';
   ?>
-  </div>
 
 
   <div id="footerSection">
@@ -31,7 +29,7 @@
 
 
   <!-- javascript -->
-  <!-- <script src="js/homeScript.js"></script>  -->
+  <script src="../js/archive-menu.js"></script>
 
   <!-- end javascript -->
 
