@@ -48,10 +48,10 @@
           <li id="cate-1-proj-9"><a href="">Scoubi - December 13, 2013</a></li>
           <li id="cate-1-proj-10"><a href="">Scroller - March 13, 2014</a></li>
           <li id="cate-1-proj-11"><a href="">Fur Elise - April 5, 2014</a></li>
-          <li id="cate-1-proj-12"><a href="">Scroller MXL - </a></li>
+          <li id="cate-1-proj-12"><a href="">Scroller MXL - November 14, 2016</a></li>
           <li id="cate-1-proj-13"><a href="">Piano Scales - </a></li>
-          <li id="cate-1-proj-14"><a href="">Improv piano - </a></li>
-          <li id="cate-1-proj-15"><a href="">Music Library - </a></li>
+          <li id="cate-1-proj-14"><a href="">Improv piano - In Progress</a></li>
+          <li id="cate-1-proj-15"><a href="">Music Library - In Progress</a></li>
         </ul>
       </li>
 
@@ -65,10 +65,11 @@
 
     <li id="cate-3"><span class="caret">Web Development</span>
       <ul class="aNested">
-        <li id="cate-3-proj-1"><a href="">This site Resume</a></li>
-        <li id="cate-3-proj-2"><a href="">MTC More</a></li>
-        <li id="cate-3-proj-3"><a href="">MLP?</a></li>
-        <li id="cate-3-proj-4"><a href="">Scoubi-doggle?</a></li>
+        <li id="cate-3-proj-1"><a href="">This site Resume - November 2019</a></li>
+        <li id="cate-3-proj-2"><a href="">Music Library - In progress</a></li>
+        <li id="cate-3-proj-3"><a href="">MTC More - </a></li>
+        <li id="cate-3-proj-4"><a href="">MLP? - </a></li>
+        <li id="cate-3-proj-5"><a href="">Scoubi-doggle? -</a></li>
       </ul>
     </li>
 
