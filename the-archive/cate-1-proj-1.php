@@ -21,13 +21,25 @@
 
 
 
-<div id="sideBar">
-  <?php
-    include 'archive-menu.php';
-  ?>
-</div>
+  <div id="sideBar">
+    <?php
+      include 'archive-menu.php';
+    ?>
+  </div>
+
+  <style> /* Current Project page */
+    #cate-1-proj-1 a {
+      color: red;
+    }
+  </style>
 
 
+  <div id="aProjectContent">
+    <h1>Project Title</h1>
+    <h2>Subtitle</h2>
+    <hr>
+    <p>bla albla fbl dfb sdfgsd fg sd fg sd f gdfgadjf g;jad ; g;pdk kgj k;jg kg sdfjghs</p>
+  </div>
 
 
   <div id="footerSection">
