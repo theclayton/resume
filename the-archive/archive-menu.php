@@ -21,8 +21,8 @@ echo '
         <li id="cate-1-proj-9"><a href="cate-1-proj-9.php"><p>Scoubi - 12/13/2013</p></a></li>
         <li id="cate-1-proj-10"><a href="cate-1-proj-10.php"><p>Scroller - 3/13/2014</p></a></li>
         <li id="cate-1-proj-11"><a href="cate-1-proj-11.php"><p>Fur Elise - 5/5/2014</p></a></li>
-        <li id="cate-1-proj-12"><a href="cate-1-proj-12.php"><p>Scroller MXL - </p></a></li>
-        <li id="cate-1-proj-13"><a href="cate-1-proj-13.php"><p>Piano Scales - </p></a></li>
+        <li id="cate-1-proj-12"><a href="cate-1-proj-12.php"><p>Scroller MXL - 11/14/2016</p></a></li>
+        <li id="cate-1-proj-13"><a href="cate-1-proj-13.php"><p>Piano Scales - 3/20/2017</p></a></li>
         <li id="cate-1-proj-14"><a href="cate-1-proj-14.php"><p>Improv piano - </p></a></li>
         <li id="cate-1-proj-15"><a href="cate-1-proj-15.php"><p>Music Library - </p></a></li>
       </ul>
@@ -65,21 +65,15 @@ echo '
     </ul>
   </li>
 
-  <li id="cate-7"><a href="cate-7.php">Windows Desktop</a>
+  <li id="cate-7"><a href="cate-7.php">Graphic design</a>
     <ul class="aNested">
-      <li id="cate-7-proj-1"><a href="cate-7-proj-1.php"><p>My program</p></a></li>
+      <li id="cate-7-proj-1"><a href="cate-7-proj-1.php"><p>Gallery</p></a></li>
     </ul>
   </li>
 
-  <li id="cate-8"><a href="cate-8.php">Graphic design</a>
+  <li id="cate-8"><a href="cate-8.php">Other Misc Projects</a>
     <ul class="aNested">
-      <li id="cate-8-proj-1"><a href="cate-8-proj-1.php"><p>Gallery</p></a></li>
-    </ul>
-  </li>
-
-  <li id="cate-9"><a href="cate-9.php">Other Misc Projects</a>
-    <ul class="aNested">
-      <li id="cate-9-proj-1"><a href="cate-9-proj-1.php"><p>My program</p></a></li>
+      <li id="cate-8-proj-1"><a href="cate-8-proj-1.php"><p>My program</p></a></li>
     </ul>
   </li>
 

@@ -21,6 +21,9 @@
 
 
 
+<div id="pageContainer">
+
+
   <div id="sideBar">
     <?php
       include 'archive-menu.php';
@@ -29,21 +32,21 @@
 
   <style> /* Current Project page */
     #cate-1-proj-1 a {
-      color: red;
+      color: #dddddd;
     }
   </style>
 
 
-  <div id="aProjectContent">
-    <h1>Project Title</h1>
-    <h2>Subtitle</h2>
-    <hr>
-    <p>bla albla fbl dfb sdfgsd fg sd fg sd f gdfgadjf g;jad ; g;pdk kgj k;jg kg sdfjghs</p>
-  </div>
+<div id="aProjectContent">
+<h1>Project Title</h1>
+<h2>Subtitle</h2>
+<hr>
+<p>bla albla fbl dfb sdfgsd fg sd fg sd f gdfgadjf g;jad ; g;pdk kgj k;jg kg sdfjghs</p>
+</div> <!-- end aProjectContent div -->
 
 
-  <div id="footerSection">
-  </div> <!-- end footerSection div -->
+
+</div> <!-- end pageContainer div -->
 
 
   <!-- javascript -->
