@@ -8,11 +8,6 @@
 <link rel="stylesheet" type="text/css" href="../style/font.css">
 <link rel="stylesheet" type="text/css" href="../style/archive.css">
 
-<!-- This site uses JQuery -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script>
-   window.jQuery || document.write('<script src="../js/jquery/jquery-3.4.1.min.js"><\/script>');
-</script>
 
 </head> <!-- emd head -->
 
@@ -37,22 +32,26 @@
   </style>
 
 
-<div id="aProjectContent">
-<h1>Project Title</h1>
-<h2>Subtitle</h2>
-<hr>
-<p>bla albla fbl dfb sdfgsd fg sd fg sd f gdfgadjf g;jad ; g;pdk kgj k;jg kg sdfjghs</p>
-</div> <!-- end aProjectContent div -->
+
+  <div id="aProjectContent">
+
+    <h1>Boondoggle</h1>
+    <img src="../images/glass.jpg" alt="App Icon" height="150" width="150">
+    <h2>iOS, Objective-C</h2>
+    <hr>
+    <p>Released on App Store on December 16, 2010. Full and Lite versions... back when that was a thing. I began working on the apps Late Spring of 2010.
+    I began learning iOS development from a book I purchased called <i>Beginning iPhone Development</i>. Cont.</p>
+    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
+    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
+    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
+
+  </div> <!-- end aProjectContent div -->
 
 
 
 </div> <!-- end pageContainer div -->
 
 
-  <!-- javascript -->
-  <script src="../js/archive-menu.js"></script>
-
-  <!-- end javascript -->
 
 </body>
 </html>

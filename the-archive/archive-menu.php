@@ -23,25 +23,26 @@ echo '
         <li id="cate-1-proj-11"><a href="cate-1-proj-11.php"><p>Fur Elise - 5/5/2014</p></a></li>
         <li id="cate-1-proj-12"><a href="cate-1-proj-12.php"><p>Scroller MXL - 11/14/2016</p></a></li>
         <li id="cate-1-proj-13"><a href="cate-1-proj-13.php"><p>Piano Scales - 3/20/2017</p></a></li>
-        <li id="cate-1-proj-14"><a href="cate-1-proj-14.php"><p>Improv piano - </p></a></li>
+        <li id="cate-1-proj-14"><a href="cate-1-proj-14.php"><p>Improv piano - IN PROGRESS</p></a></li>
         <li id="cate-1-proj-15"><a href="cate-1-proj-15.php"><p>Music Library - </p></a></li>
       </ul>
     </li>
 
   <li id="cate-2"><a href="cate-2.php">Android Development</a>
     <ul class="aNested">
-      <li id="cate-2-proj-1"><a href="cate-2-proj-1.php"><p>Paracord</p></a></li>
-      <li id="cate-2-proj-2"><a href="cate-2-proj-2.php"><p>Scoubi-Doggle</p></a></li>
-      <li id="cate-2-proj-2"><a href="cate-2-proj-3.php"><p>Improv Piano</p></a></li>
+      <li id="cate-2-proj-1"><a href="cate-2-proj-1.php"><p>Scoubi-Doggle - 7/5/2016</p></a></li>
+      <li id="cate-2-proj-2"><a href="cate-2-proj-2.php"><p>Paracord - 7/6/2016</p></a></li>
+      <li id="cate-2-proj-3"><a href="cate-2-proj-3.php"><p>Improv Piano - IN PROGRESS</p></a></li>
     </ul>
   </li>
 
   <li id="cate-3"><a href="cate-3.php">Web Development</a>
     <ul class="aNested">
       <li id="cate-3-proj-1"><a href="cate-3-proj-1.php"><p>This site Resume</p></a></li>
-      <li id="cate-3-proj-2"><a href="cate-3-proj-2.php"><p>MTC More</p></a></li>
-      <li id="cate-3-proj-3"><a href="cate-3-proj-3.php"><p>MLP?</p></a></li>
-      <li id="cate-3-proj-4"><a href="cate-3-proj-4.php"><p>Scoubi-doggle?</p></a></li>
+      <li id="cate-3-proj-2"><a href="cate-3-proj-2.php"><p>Not Just Lazy Susans</p></a></li>
+      <li id="cate-3-proj-3"><a href="cate-3-proj-3.php"><p>MTC More</p></a></li>
+      <li id="cate-3-proj-4"><a href="cate-3-proj-4.php"><p>MLP?</p></a></li>
+      <li id="cate-3-proj-5"><a href="cate-3-proj-5.php"><p>Scoubi-doggle?</p></a></li>
     </ul>
   </li>
 
@@ -54,8 +55,8 @@ echo '
   <li id="cate-5"><a href="cate-5.php">Linux Development</a>
     <ul class="aNested">
       <li id="cate-5-proj-1"><a href="cate-5-proj-1.php"><p>My Distro</p></a></li>
-      <li id="cate-5-proj-2"><a href="cate-5-proj-1.php"><p>Some useful program</p></a></li>
-      <li id="cate-5-proj-3"><a href="cate-5-proj-1.php"><p>Some useful shell script</p></a></li>
+      <li id="cate-5-proj-2"><a href="cate-5-proj-2.php"><p>Some useful program</p></a></li>
+      <li id="cate-5-proj-3"><a href="cate-5-proj-3.php"><p>Some useful shell script</p></a></li>
     </ul>
   </li>
 
