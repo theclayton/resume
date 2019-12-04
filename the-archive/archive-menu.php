@@ -23,7 +23,7 @@ echo '
         <li id="cate-1-proj-11"><a href="cate-1-proj-11.php"><p>Fur Elise - 5/5/2014</p></a></li>
         <li id="cate-1-proj-12"><a href="cate-1-proj-12.php"><p>Scroller MXL - 11/14/2016</p></a></li>
         <li id="cate-1-proj-13"><a href="cate-1-proj-13.php"><p>Piano Scales - 3/20/2017</p></a></li>
-        <li id="cate-1-proj-14"><a href="cate-1-proj-14.php"><p>Improv piano - IN PROGRESS</p></a></li>
+        <li id="cate-1-proj-14"><a href="cate-1-proj-14.php"><p>Improv piano - 2019</p></a></li>
         <li id="cate-1-proj-15"><a href="cate-1-proj-15.php"><p>Music Library - </p></a></li>
       </ul>
     </li>

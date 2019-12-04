@@ -27,8 +27,10 @@
 
   <style> /* Current Project page */
     #cate-1-proj-1 a {
-      color: #dddddd;
-    }
+      color: #333333;
+      font-weight: bold;
+      text-decoration: none;
+  }
   </style>
 
 
