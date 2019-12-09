@@ -15,7 +15,7 @@ echo '
         <li id="cate-1-proj-3"><a href="cate-1-proj-3.php"><p>City Sky - 10/2011</p></a></li>
         <li id="cate-1-proj-4"><a href="cate-1-proj-4.php"><p>Xellic - 1/25/2012</p></a></li>
         <li id="cate-1-proj-5"><a href="cate-1-proj-5.php"><p>Xellix II - 5/23/2012</p></a></li>
-        <li id="cate-1-proj-6"><a href="cate-1-proj-6.php"><p>Scoubidou - 3/182013</p></a></li>
+        <li id="cate-1-proj-6"><a href="cate-1-proj-6.php"><p>Scoubidou - 3/18/2013</p></a></li>
         <li id="cate-1-proj-7"><a href="cate-1-proj-7.php"><p>Forte - Mid-2013</p></a></li>
         <li id="cate-1-proj-8"><a href="cate-1-proj-8.php"><p>Paracord 3D - 11/2013</p></a></li>
         <li id="cate-1-proj-9"><a href="cate-1-proj-9.php"><p>Scoubi - 12/13/2013</p></a></li>
