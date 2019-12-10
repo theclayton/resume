@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>The Archive: Category 1 Project 12, Clayton Ward</title>
+<title>The Archive: Category 3 Project 4, Clayton Ward</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -26,7 +26,7 @@
   </div>
 
   <style> /* Current Project page */
-    #cate-1-proj-12 a {
+    #cate-3-proj-4 a {
       color: #333333;
       font-weight: bold;
       text-decoration: none;
@@ -37,11 +37,11 @@
 
   <div id="aProjectContent">
 
-    <h1>Scroller MXL</h1>
+    <h1>Majestic Leisure Properties Website</h1>
     <img src="../images/glass.jpg" alt="App Icon" height="150" width="150">
-    <h2>iOS, Swift, PHP, MySQL</h2>
+    <h2>Web, HTML, CSS, PHP</h2>
     <hr>
-    <p>Released on App Store on November 14, 2016. Converts MXL files to scrolling sheet music. Virtual piano appears on bottom of screen to teach users where each not is located. Uses various algorithms to scroll music at perfect timing depending on key signature. Also offers the ability to browse the online store and download songs (MXL files) to be used in the app.</p>
+    <p>Built in ??????. Simple advertising website to display available properties. Real Estate Agents had a login to view pricing and property information.</p>
     <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
     <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
     <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">

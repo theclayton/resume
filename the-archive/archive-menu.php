@@ -8,7 +8,7 @@ echo '
 <li><a href="all.php">All Projects</a>
   <ul class="aNestedTop">
 
-    <li id="cate-1"><a href="cate-1.php">iOS Development</a>
+    <li id="cate-1"><a>iOS Development</a>
       <ul class="aNested">
         <li id="cate-1-proj-1"><a href="cate-1-proj-1.php"><p>Boondoggle - 12/16/2010</p></a></li>
         <li id="cate-1-proj-2"><a href="cate-1-proj-2.php"><p>Clash ots - Mid-2011</p></a></li>
@@ -28,7 +28,7 @@ echo '
       </ul>
     </li>
 
-  <li id="cate-2"><a href="cate-2.php">Android Development</a>
+  <li id="cate-2"><a>Android Development</a>
     <ul class="aNested">
       <li id="cate-2-proj-1"><a href="cate-2-proj-1.php"><p>Scoubi-Doggle - 7/5/2016</p></a></li>
       <li id="cate-2-proj-2"><a href="cate-2-proj-2.php"><p>Paracord - 7/6/2016</p></a></li>
@@ -36,7 +36,7 @@ echo '
     </ul>
   </li>
 
-  <li id="cate-3"><a href="cate-3.php">Web Development</a>
+  <li id="cate-3"><a>Web Development</a>
     <ul class="aNested">
       <li id="cate-3-proj-1"><a href="cate-3-proj-1.php"><p>This site Resume</p></a></li>
       <li id="cate-3-proj-2"><a href="cate-3-proj-2.php"><p>Not Just Lazy Susans</p></a></li>
@@ -46,13 +46,13 @@ echo '
     </ul>
   </li>
 
-  <li id="cate-4"><a href="cate-4.php">Embedded Systems</a>
+  <li id="cate-4"><a>Embedded Systems</a>
     <ul class="aNested">
       <li id="cate-4-proj-1"><a href="cate-4-proj-1.php"><p>3 X 3 display</p></a></li>
     </ul>
   </li>
 
-  <li id="cate-5"><a href="cate-5.php">Linux Development</a>
+  <li id="cate-5"><a>Linux Development</a>
     <ul class="aNested">
       <li id="cate-5-proj-1"><a href="cate-5-proj-1.php"><p>My Distro</p></a></li>
       <li id="cate-5-proj-2"><a href="cate-5-proj-2.php"><p>Some useful program</p></a></li>
@@ -60,19 +60,19 @@ echo '
     </ul>
   </li>
 
-  <li id="cate-6"><a href="cate-6.php">Ruby on Rails</a>
+  <li id="cate-6"><a>Ruby on Rails</a>
   <ul class="aNested">
       <li id="cate-6-proj-1"><a href="cate-6-proj-1.php"><p>My program</p></a></li>
     </ul>
   </li>
 
-  <li id="cate-7"><a href="cate-7.php">Graphic design</a>
+  <li id="cate-7"><a>Graphic design</a>
     <ul class="aNested">
       <li id="cate-7-proj-1"><a href="cate-7-proj-1.php"><p>Gallery</p></a></li>
     </ul>
   </li>
 
-  <li id="cate-8"><a href="cate-8.php">Other Misc Projects</a>
+  <li id="cate-8"><a>Other Misc Projects</a>
     <ul class="aNested">
       <li id="cate-8-proj-1"><a href="cate-8-proj-1.php"><p>My program</p></a></li>
     </ul>

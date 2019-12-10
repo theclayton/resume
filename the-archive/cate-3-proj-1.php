@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>The Archive: Category 2 Project 1, Clayton Ward</title>
+<title>The Archive: Category 3 Project 1, Clayton Ward</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -26,7 +26,7 @@
   </div>
 
   <style> /* Current Project page */
-    #cate-2-proj-1 a {
+    #cate-3-proj-1 a {
       color: #333333;
       font-weight: bold;
       text-decoration: none;
@@ -37,11 +37,11 @@
 
   <div id="aProjectContent">
 
-    <h1>Scoubi-Doggle</h1>
+    <h1>This wesite: Clayton Ward Resume</h1>
     <img src="../images/glass.jpg" alt="App Icon" height="150" width="150">
-    <h2>iOS, C#</h2>
+    <h2>Web, HTML, CSS, Javascript</h2>
     <hr>
-    <p>Released on App Store on July 5, 2016. First published Android application. Used Xamarin Forms.</p>
+    <p>Began development in Octoboer 2019. This site is intended to be a collection of all of my major projects along as a supplimental resume.</p>
     <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
     <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
     <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
