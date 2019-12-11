@@ -256,13 +256,19 @@ Education Section
 -------------------------------------------------------------*/
 #educationFormal {
   text-align:center;
+  width: 100%;
+  margin: 0 auto;
 }
-#educationFormal li  {
-  display: inline-block;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 25px;
+#educationFormal::after {
+  content: "";
+  clear: both;
+  display: table;
 }
+.diploma {
+  float: left;
+  padding: 10px;
+}
+
 #educationOther {
   text-align: center;
 }
