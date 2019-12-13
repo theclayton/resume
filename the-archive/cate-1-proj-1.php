@@ -38,7 +38,7 @@
   <div id="aProjectContent">
 
     <h1>Boondoggle</h1>
-    <img src="../images/glass.jpg" alt="App Icon" height="150" width="150">
+    <img src="../images/boondoggle-full-150.png" alt="Boondoggle App Icon" height="150" width="150">
     <h2>iOS, Objective-C</h2>
     <hr>
     <p>Released on App Store on December 16, 2010. Full and Lite versions... back when that was a thing. I began working on the apps Late Spring of 2010.
