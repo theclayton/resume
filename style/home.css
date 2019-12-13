@@ -255,22 +255,17 @@ Custom Event Boxes
 Education Section
 -------------------------------------------------------------*/
 #educationFormal {
-  text-align:center;
+  text-align: center;
   width: 100%;
-  margin: 0 auto;
-}
-#educationFormal::after {
-  content: "";
-  clear: both;
-  display: table;
 }
 .diploma {
-  float: left;
+  display: inline-block;
   padding: 10px;
+  width: 350px;
 }
-
 #educationOther {
   text-align: center;
+  clear: both;
 }
 
 
@@ -291,7 +286,7 @@ Experience Section
   padding: 0px;
 }
 .eSquare {
-  background-color: #333333;
+  background-color: #222222;
   color: #aaaaaa;
   border: 1px solid rgba(0, 0, 0, 0.8);
   text-decoration: none;
@@ -299,12 +294,11 @@ Experience Section
   text-align: center;
 }
 .eSquare:hover {
-  background-color: #444444;
+  background-color: #333333;
 }
 .eSquareImg {
   display: inline-block;
-  margin: 20px 10px 10px 10px;
-  background-color: #eeeeee;
+  margin: 40px 10px 10px 10px;
 }
 .archiveLink {
   text-align: center;
