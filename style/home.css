@@ -248,6 +248,19 @@ Custom Event Boxes
   border-left: 20px solid transparent;
   border-top: 80px solid #444444;
 }
+#tInfo2019 { /* Kotlin */
+  width: 215px;
+  height: 120px;
+  top: 45px;
+  right: 0px;
+  border-radius: 10px 10px 0px 10px;
+}
+#tInfo2018Triangle {
+  top: 165px;
+  right: 0px;
+  border-left: 20px solid transparent;
+  border-top: 80px solid #444444;
+}
 
 
 
