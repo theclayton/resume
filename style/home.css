@@ -23,8 +23,36 @@ h3 {
   position: relative;
   text-align: center;
 }
-
-
+#headingSection h2 {
+  color: #333333;
+}
+.titletext {
+  font-family: 'Lobster-Regular';
+  font-weight:normal;
+  font-style:normal;
+  font-size: 90pt;
+  padding-top: 35px;
+  text-align: center;
+  color: transparent;
+  background: #111111;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  text-shadow: 0px 3px 3px rgba(255,255,255,0.25);
+}
+.secTitle {
+  font-family: 'Lobster-Regular';
+  font-weight:normal;
+  font-style:normal;
+  font-size: 56pt;
+  text-align: center;
+  color: transparent;
+  background: #a80b00;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  text-shadow: 0px 2px 2px rgba(255,255,255,0.35);
+}
 
 /* ------------------------------------------------------------
 TIME LINE SECTION
@@ -249,17 +277,15 @@ Custom Event Boxes
   border-top: 80px solid #444444;
 }
 #tInfo2019 { /* Kotlin */
-  width: 215px;
+  width: 245px;
   height: 120px;
-  top: 45px;
-  right: 0px;
+  top: 85px;
+  right: 210px;
   border-radius: 10px 10px 0px 10px;
 }
-#tInfo2018Triangle {
-  top: 165px;
-  right: 0px;
-  border-left: 20px solid transparent;
-  border-top: 80px solid #444444;
+#tInfo2019Triangle {
+  top: 205px;
+  right: 225px;
 }
 
 
@@ -342,35 +368,4 @@ Experience Section
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
   background: #dddddd;
-}
-
-
-
-/* fonts */
-.titletext {
-  font-family: 'Lobster-Regular';
-  font-weight:normal;
-  font-style:normal;
-  font-size: 90pt;
-  padding-top: 35px;
-  text-align: center;
-  color: transparent;
-  background: #111111;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  background-clip: text;
-  text-shadow: 0px 3px 3px rgba(255,255,255,0.25);
-}
-.secTitle {
-  font-family: 'Lobster-Regular';
-  font-weight:normal;
-  font-style:normal;
-  font-size: 56pt;
-  text-align: center;
-  color: transparent;
-  background: #a80b00;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  background-clip: text;
-  text-shadow: 0px 2px 2px rgba(255,255,255,0.35);
 }
