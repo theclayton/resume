@@ -30,14 +30,14 @@ h3 {
 TIME LINE SECTION
 -------------------------------------------------------------*/
 #timelineSection {
-  padding: 0;
+  padding: 0px;
   margin: 0;
   position: relative;
   border-top: 1px solid #cccccc;
   border-bottom: 1px solid #aaaaaa;
 }
 #timeline {
-  padding: 0;
+  padding: 50px 0px 0px 0px;
   margin: 0;
   position: relative;
   background-color: #333333;
@@ -48,7 +48,7 @@ TIME LINE SECTION
   white-space: nowrap;
   overflow-x: scroll;
 	overflow-y: hidden;
-  height: 525px; /* 25px more due to custom scroller bar */
+  height: 450px;
 }
 .tEventsLabel {
   padding: 0;
@@ -56,15 +56,6 @@ TIME LINE SECTION
   position: absolute;
   left: 150px;
   top: 0px;
-  color: rgba(0,0,0,.6);
-  text-shadow: 3px 2px 3px rgba(255,255,255,.1);
-}
-.tProjectsLabel {
-  padding: 0;
-  margin: 0;
-  position: absolute;
-  left: 135px;
-  top: 440px;
   color: rgba(0,0,0,.6);
   text-shadow: 3px 2px 3px rgba(255,255,255,.1);
 }
