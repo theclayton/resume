@@ -42,9 +42,6 @@
     <h2>Web, HTML, CSS, Javascript</h2>
     <hr>
     <p>Built in ??????. Simple informative website for a small detailing company</p>
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
 
   </div> <!-- end aProjectContent div -->
 

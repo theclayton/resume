@@ -41,10 +41,7 @@
     <img src="../images/glass.jpg" alt="App Icon" height="150" width="150">
     <h2>Ruby</h2>
     <hr>
-    <p>In progress...</p>
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
+    <p>In planning...</p>
 
   </div> <!-- end aProjectContent div -->
 

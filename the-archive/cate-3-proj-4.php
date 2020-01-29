@@ -42,9 +42,6 @@
     <h2>Web, HTML, CSS, PHP</h2>
     <hr>
     <p>Built in ??????. Simple advertising website to display available properties. Real Estate Agents had a login to view pricing and property information.</p>
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
 
   </div> <!-- end aProjectContent div -->
 

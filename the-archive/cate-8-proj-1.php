@@ -42,10 +42,7 @@
     <h2>Coming soon</h2>
     <hr>
     <p>In progress...</p>
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
-
+  
   </div> <!-- end aProjectContent div -->
 
 

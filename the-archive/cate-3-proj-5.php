@@ -42,9 +42,6 @@
     <h2>Web, HTML, CSS</h2>
     <hr>
     <p>Built in ??????. Simple instructional website.</p>
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
 
   </div> <!-- end aProjectContent div -->
 

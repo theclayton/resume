@@ -42,9 +42,6 @@
     <h2>Web, HTML, CSS</h2>
     <hr>
     <p>Built in ??????. This site is a very affordable example of an online store.</p>
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
 
   </div> <!-- end aProjectContent div -->
 

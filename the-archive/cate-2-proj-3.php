@@ -42,9 +42,6 @@
     <h2>iOS, Kotlin</h2>
     <hr>
     <p>In progress. began in 2019. This app wil teach users the basic compenants needed to play improvisational piano.</p>
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
 
   </div> <!-- end aProjectContent div -->
 

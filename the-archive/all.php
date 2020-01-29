@@ -36,7 +36,7 @@
 
   <div id="aProjectContent">
     <h1>The Archive</h1>
-    <h2>By Clayton Ward</h2>
+    <h2>By: Clayton Ward</h2>
     <hr>
     <p>Please select a project from the left pane. Or select a category below:</p>
     <br>
@@ -46,7 +46,7 @@
 
 
 
-  <p><span style="padding-left: 20px;">Copyright &#169; 2010-2019, All rigths reservered.</span></p>
+  <p><span style="padding-left: 20px;">Copyright &#169; 2010-2019 Clayton Ward. All rights reserved.</span></p>
 
 
 

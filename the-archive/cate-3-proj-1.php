@@ -42,9 +42,6 @@
     <h2>Web, HTML, CSS, Javascript, PHP</h2>
     <hr>
     <p>Began development in Octoboer 2019. This site is intended to be a collection of all of my major projects along as a supplimental resume.</p>
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
 
   </div> <!-- end aProjectContent div -->
 

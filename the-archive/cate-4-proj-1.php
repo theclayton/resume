@@ -43,8 +43,6 @@
     <hr>
     <p>Atmel Studio, build from scratch 3 x 3 LED swquare. </p>
     <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
 
   </div> <!-- end aProjectContent div -->
 
