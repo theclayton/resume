@@ -24,7 +24,6 @@ h3 {
 #sideBar {
   position: relative;
   float: left;
-  height: 100%;
   width: 300px;
   padding: 0;
   margin: 0;
@@ -60,4 +59,20 @@ h3 {
   position: relative;
   margin-left: 300px;
   padding: 20px;
+}
+
+
+/* MOBILE DEVICES */
+@media only screen and (max-width: 600px) {
+
+  #sideBar {
+    width: 100%;
+  }
+
+  #aProjectContent {
+    margin: auto;
+    width: 90%;
+    clear: both;
+  }
+
 }
