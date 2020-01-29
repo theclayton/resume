@@ -39,7 +39,7 @@
 
     <h1>Improv Piano</h1>
     <img src="../images/glass.jpg" alt="App Icon" height="150" width="150">
-    <h2>iOS, Kotlin</h2>
+    <h2>Android, Kotlin</h2>
     <hr>
     <p>In progress. began in 2019. This app wil teach users the basic compenants needed to play improvisational piano.</p>
 

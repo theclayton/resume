@@ -38,13 +38,14 @@
   <div id="aProjectContent">
 
     <h1>Scoubi-Doggle</h1>
-    <img src="../images/glass.jpg" alt="App Icon" height="150" width="150">
-    <h2>iOS, C#</h2>
+    <img src="../images/scoubi_android_icon.png" alt="App Icon" height="150" width="150">
+    <h2>Android (Xamarin), C#</h2>
     <hr>
-    <p>Released on App Store on July 5, 2016. First published Android application. Used Xamarin Forms.</p>
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
+    <p>Released on App Store on July 5, 2016. First published Android application. Used Xamarin Forms.
+      <br><br>View Google Play product page <a href="https://play.google.com/store/apps/details?id=com.flaresoftware.scoubidoggle&hl=en_US">here.</a>
+    </p>
+    <img src="../images/scoubi_android_1.png" alt="Screenshot" width="200">
+    <img src="../images/scoubi_android_2.png" alt="Screenshot" width="200">
 
   </div> <!-- end aProjectContent div -->
 

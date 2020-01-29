@@ -39,7 +39,7 @@
 
     <h1>Paracord</h1>
     <img src="../images/glass.jpg" alt="App Icon" height="150" width="150">
-    <h2>iOS, C#</h2>
+    <h2>Android (Xamarin), C#</h2>
     <hr>
     <p>Released on App Store on July 6, 2016. Very simple Android application. Used Xamarin Forms.</p>
     <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">

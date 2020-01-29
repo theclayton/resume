@@ -42,10 +42,12 @@
     <h2>iOS, Objective-C</h2>
     <hr>
     <p>Released on App Store on December 16, 2010. Full and Lite versions... back when that was a thing. I began working on the apps Late Spring of 2010.
-    I began learning iOS development from a book I purchased called <i>Beginning iPhone Development</i>. Cont.</p>
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
-    <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
+    I began learning iOS development from a book I purchased called <i>Beginning iPhone Development</i>. Apple removed the app from sale a few years back because I hadn't updated it in a while.
+    <br>Link to a video I made featuring the app: <a href="https://www.youtube.com/watch?v=C0Phr0uV4U4">YouTube</a>
+    </p>
+    <img src="../images/glass.jpg" alt="Screenshot" width="200">
+    <img src="../images/glass.jpg" alt="Screenshot" width="200">
+    <img src="../images/glass.jpg" alt="Screenshot" width="200">
 
   </div> <!-- end aProjectContent div -->
 
