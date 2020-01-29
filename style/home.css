@@ -22,9 +22,53 @@ h3 {
   background-color: #ffffff;
   position: relative;
   text-align: center;
+  padding-bottom: 20px;
+}
+.archiveButton {
+  background-color: #FF5733;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.archiveButton:hover {
+  background-color: #E12800;
 }
 
 
+/* fonts */
+.titletext {
+  font-family: 'Lobster-Regular';
+  font-weight:normal;
+  font-style:normal;
+  font-size: 90pt;
+  padding-top: 15px;
+  text-align: center;
+  color: transparent;
+  background: #111111;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  text-shadow: 0px 3px 3px rgba(255,255,255,0.25);
+}
+.secTitle {
+  font-family: 'Lobster-Regular';
+  font-weight:normal;
+  font-style:normal;
+  font-size: 56pt;
+  text-align: center;
+  color: transparent;
+  background: #a80b00;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  text-shadow: 0px 2px 2px rgba(255,255,255,0.35);
+}
 
 /* ------------------------------------------------------------
 TIME LINE SECTION
@@ -240,17 +284,28 @@ Custom Event Boxes
   border-top: 80px solid #444444;
 }
 #tInfo2019 { /* Kotlin */
-  width: 215px;
+  width: 195px;
   height: 120px;
-  top: 45px;
-  right: 0px;
+  top: 30px;
+  right: 15px;
   border-radius: 10px 10px 0px 10px;
 }
-#tInfo2018Triangle {
-  top: 165px;
-  right: 0px;
-  border-left: 20px solid transparent;
-  border-top: 80px solid #444444;
+#tInfo2019Triangle {
+  top: 140px;
+  right: 40px;
+  border-left: 30px solid transparent;
+  border-top: 100px solid #444444;
+}
+#tInfo2020 { /* UVU */
+  width: 180px;
+  height: 180px;
+  top: 15px;
+  right: 40px;
+  border-radius: 10px 10px 0px 10px;
+}
+#tInfo2020Triangle {
+  top: 195px;
+  right: 110px;
 }
 
 
@@ -333,35 +388,4 @@ Experience Section
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
   background: #dddddd;
-}
-
-
-
-/* fonts */
-.titletext {
-  font-family: 'Lobster-Regular';
-  font-weight:normal;
-  font-style:normal;
-  font-size: 90pt;
-  padding-top: 35px;
-  text-align: center;
-  color: transparent;
-  background: #111111;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  background-clip: text;
-  text-shadow: 0px 3px 3px rgba(255,255,255,0.25);
-}
-.secTitle {
-  font-family: 'Lobster-Regular';
-  font-weight:normal;
-  font-style:normal;
-  font-size: 56pt;
-  text-align: center;
-  color: transparent;
-  background: #a80b00;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  background-clip: text;
-  text-shadow: 0px 2px 2px rgba(255,255,255,0.35);
 }
