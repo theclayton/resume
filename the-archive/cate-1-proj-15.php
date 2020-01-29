@@ -38,7 +38,7 @@
   <div id="aProjectContent">
 
     <h1>Music Library</h1>
-    <img src="../images/glass.jpg" alt="App Icon" height="150" width="150">
+    <img src="../images/Empty_app_icon_512.png" alt="App Icon" height="150" width="150">
     <h2>iOS, Swift</h2>
     <hr>
     <p>In progress. began development in 2019. This app will be a storage, playback and sheet music utility.</p>

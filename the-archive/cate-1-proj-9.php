@@ -38,7 +38,7 @@
   <div id="aProjectContent">
 
     <h1>Scoubi</h1>
-    <img src="../images/glass.jpg" alt="App Icon" height="150" width="150">
+    <img src="../images/Scoubi-40.png" alt="Scoubi App Icon" height="150" width="150">
     <h2>iOS, Objective-C</h2>
     <hr>
     <p>Released on App Store on December 13, 2013. Emphasis on localization. Translated into many languages.</p>

@@ -38,7 +38,6 @@
   <div id="aProjectContent">
 
     <h1>My Linux Distribution</h1>
-    <img src="../images/glass.jpg" alt="App Icon" height="150" width="150">
     <h2>Linux</h2>
     <hr>
     <p>In progress...</p>

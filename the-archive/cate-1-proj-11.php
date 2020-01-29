@@ -38,7 +38,7 @@
   <div id="aProjectContent">
 
     <h1>Fur Elise</h1>
-    <img src="../images/glass.jpg" alt="App Icon" height="150" width="150">
+    <img src="../images/fur-elise.png" alt="Fur Elise App Icon" height="150" width="150">
     <h2>iOS, Objective-C</h2>
     <hr>
     <p>Released on App Store on May 5, 2014. Keyword search optimization. Created in 1 day using code from Scroller.</p>

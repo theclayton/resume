@@ -42,7 +42,7 @@
     <h2>Coming soon</h2>
     <hr>
     <p>In progress...</p>
-  
+
   </div> <!-- end aProjectContent div -->
 
 

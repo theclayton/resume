@@ -41,7 +41,7 @@
     <img src="../images/glass.jpg" alt="App Icon" height="150" width="150">
     <h2>Embedded, C++</h2>
     <hr>
-    <p>Atmel Studio, build from scratch 3 x 3 LED swquare. </p>
+    <p>Using Atmel Studio, I build from scratch 3 x 3 LED swquare. </p>
     <img src="../images/Embedded-1.JPG" alt="Embedded Photo" height="600">
 
   </div> <!-- end aProjectContent div -->

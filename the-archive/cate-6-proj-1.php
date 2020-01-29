@@ -38,7 +38,6 @@
   <div id="aProjectContent">
 
     <h1>Ruby on Rails Project</h1>
-    <img src="../images/glass.jpg" alt="App Icon" height="150" width="150">
     <h2>Ruby</h2>
     <hr>
     <p>In planning...</p>

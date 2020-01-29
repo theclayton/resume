@@ -38,7 +38,7 @@
   <div id="aProjectContent">
 
     <h1>Piano Scales</h1>
-    <img src="../images/glass.jpg" alt="App Icon" height="150" width="150">
+    <img src="../images/piano-scales.png" alt="Piano Scales App Icon" height="150" width="150">
     <h2>iOS, Swift</h2>
     <hr>
     <p>Released on App Store on March 20, 2017. Weekend project, mostly for my own reference.</p>

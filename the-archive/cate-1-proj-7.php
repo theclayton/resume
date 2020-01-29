@@ -38,7 +38,7 @@
   <div id="aProjectContent">
 
     <h1>Forte</h1>
-    <img src="../images/glass.jpg" alt="App Icon" height="150" width="150">
+    <img src="../images/forte.png" alt="App Icon" height="150" width="150">
     <h2>iOS, Objective-C</h2>
     <hr>
     <p>Never released on App Store. Sheet music composer software. Unable to continue development due to lack of hardware support for desired result.</p>

@@ -38,7 +38,7 @@
   <div id="aProjectContent">
 
     <h1>City Sky</h1>
-    <img src="../images/glass.jpg" alt="App Icon" height="150" width="150">
+    <img src="../images/city-sky.png" alt="City Sky App Icon" height="150" width="150">
     <h2>iOS, Objective-C</h2>
     <hr>
     <p>Released on App Store in October of 2011.</p>

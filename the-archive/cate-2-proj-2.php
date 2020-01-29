@@ -38,10 +38,10 @@
   <div id="aProjectContent">
 
     <h1>Paracord</h1>
-    <img src="../images/glass.jpg" alt="App Icon" height="150" width="150">
+    <img src="../images/paracord-3d.png" alt="App Icon" height="150" width="150">
     <h2>Android (Xamarin), C#</h2>
     <hr>
-    <p>Released on App Store on July 6, 2016. Very simple Android application. Used Xamarin Forms.</p>
+    <p>Released on Play Store on July 6, 2016. Very simple Android application. Used Xamarin Forms.</p>
     <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
     <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">
     <img src="../images/glass.jpg" alt="Screenshot" height="350" width="200">

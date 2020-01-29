@@ -38,7 +38,7 @@
   <div id="aProjectContent">
 
     <h1>Paracord 3D</h1>
-    <img src="../images/glass.jpg" alt="App Icon" height="150" width="150">
+    <img src="../images/paracord-3d.png" alt="Paracord 3D App Icon" height="150" width="150">
     <h2>iOS, Objective-C</h2>
     <hr>
     <p>Released on App Store in November 2013. iPad and iPhone versions...</p>

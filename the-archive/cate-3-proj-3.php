@@ -38,10 +38,10 @@
   <div id="aProjectContent">
 
     <h1>MTC More Website</h1>
-    <img src="../images/glass.jpg" alt="App Icon" height="150" width="150">
     <h2>Web, HTML, CSS, Javascript</h2>
     <hr>
     <p>Built in ??????. Simple informative website for a small detailing company</p>
+    <img src="../images/glass.jpg" alt="App Icon" height="150" width="150">
 
   </div> <!-- end aProjectContent div -->
 

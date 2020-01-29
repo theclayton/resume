@@ -38,10 +38,10 @@
   <div id="aProjectContent">
 
     <h1>Not Just Lazy Susans Website</h1>
-    <img src="../images/glass.jpg" alt="App Icon" height="150" width="150">
     <h2>Web, HTML, CSS</h2>
     <hr>
     <p>Built in ??????. This site is a very affordable example of an online store.</p>
+    <img src="../images/glass.jpg" alt="App Icon" height="150" width="150">
 
   </div> <!-- end aProjectContent div -->
 

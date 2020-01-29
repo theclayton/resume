@@ -38,7 +38,7 @@
   <div id="aProjectContent">
 
     <h1>Xellic 1</h1>
-    <img src="../images/glass.jpg" alt="App Icon" height="150" width="150">
+    <img src="../images/xellic.png" alt="Xellic App Icon" height="150" width="150">
     <h2>iOS, Objective-C</h2>
     <hr>
     <p>Released on App Store on January 25, 2012.</p>
